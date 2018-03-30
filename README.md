@@ -8,7 +8,7 @@ L. Logstash is a log pipeline tool that accepts inputs from various sources, exe
 
 K. Kibana is a visualization layer that works on top of Elasticsearch.
 
-Elastic search concept 
+Elastic search concept \n
 Elasticsearch stores data as document / JSON (like rows in RDBMS)
 document type  is like a table
 index is like a database
