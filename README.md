@@ -26,7 +26,7 @@ It's a java program which store a indexed data so that it can used for text base
 - replicas - copy of shards
 
 
-### 2. Setup ELK on Windows 
+## 2. Setup ELK on Windows 
 No installation needed for Elastic technologies. Just unzip the package and modify the config if needed and run the utility.
 
 ### 2.1 https://www.elastic.co/downloads/elasticsearch 
@@ -36,7 +36,7 @@ No installation needed for Elastic technologies. Just unzip the package and modi
 ### 2.3 https://www.elastic.co/downloads/kibana
 
 
-### learning resources...
+## learning resources...
 
 https://logz.io/blog/installing-the-elk-stack-on-windows/
 
@@ -44,10 +44,9 @@ https://logz.io/blog/windows-event-log-analysis/
 
 https://github.com/elastic/elasticsearch
 
-https://blog.webkid.io/visualize-datasets-with-elk/
 
-https://howtodoinjava.com/microservices/elk-stack-tutorial-example/
-
+#### todo
 http://www.noahdatatech.com/elasticsearch-for-dummies/
+https://blog.webkid.io/visualize-datasets-with-elk/
 
 
