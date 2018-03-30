@@ -1,9 +1,12 @@
 # ELK-Stack
 ## 1. Theory
 The ELK Stack is a collection of three open-source products — Elasticsearch, Logstash, and Kibana — from Elastic. 
+
 E. Elasticsearch is a NoSQL database that is based on the Lucene search engine. 
+
 L. Logstash is a log pipeline tool that accepts inputs from various sources, executes different transformations, and exports the data to various targets. 
-K Kibana is a visualization layer that works on top of Elasticsearch.
+
+K. Kibana is a visualization layer that works on top of Elasticsearch.
 
 Elastic search concept 
 Elasticsearch stores data as document / JSON (like rows in RDBMS)
