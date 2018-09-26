@@ -1,4 +1,5 @@
 # ELK-Stack
+
 ## 1. Theory
 The ELK Stack is a collection of three open-source products — Elasticsearch, Logstash, and Kibana — from Elastic. 
 
@@ -9,7 +10,7 @@ L. Logstash is a log pipeline tool that accepts inputs from various sources, exe
 K. Kibana is a visualization layer that works on top of Elasticsearch.
 
 
-### Elasticsearch concept 
+## Elasticsearch concept 
 
 It's a java program which store a indexed data so that it can used for text based searches. 
 
@@ -39,14 +40,12 @@ No installation needed for Elastic technologies. Just unzip the package and modi
 ## learning resources...
 
 https://logz.io/blog/installing-the-elk-stack-on-windows/
-
 https://logz.io/blog/windows-event-log-analysis/
-
 https://github.com/elastic/elasticsearch
 
 
 #### todo
 http://www.noahdatatech.com/elasticsearch-for-dummies/
 https://blog.webkid.io/visualize-datasets-with-elk/
-
+http://solr-vs-elasticsearch.com/
 
